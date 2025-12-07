@@ -1,0 +1,1 @@
+This is a simple Hotel Management System implemented in Java with a SQL database backend (e.g. MySQL ). The goal of the project is to automate common hotel-operations  room management, guest booking, check-in/check-out, billing, and optionally food/extra-services  instead of doing these manually via paper/ledgers.
